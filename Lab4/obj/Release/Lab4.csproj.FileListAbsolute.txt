@@ -1,0 +1,7 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lab4\Lab4\bin\Release\Lab4.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lab4\Lab4\bin\Release\Lab4.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lab4\Lab4\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lab4\Lab4\obj\Release\Lab4.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Lab4\Lab4\obj\Release\Lab4.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Projects\Integral\Lab4\obj\Release\Lab4.exe
+C:\Documents and Settings\Admin\Рабочий стол\Projects\Integral\Lab4\obj\Release\Lab4.pdb
